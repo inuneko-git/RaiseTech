@@ -26,7 +26,7 @@ APサーバーを終了させた場合、引き続きアクセスできる
 
   - <u>アクセスできない</u>
     
- ![画像3.jpg](images/AP_OFF:DB_ON.png)
+ ![画像3.jpg](images/AP_OFF_DB_ON.png)
 
   - その後AP サーバーを起動すると<u>アクセスできる</u>
 
@@ -44,7 +44,7 @@ DBサーバーを終了させた場合、引き続きアクセスできる
 
   - <u>アクセスできない</u>
 
- ![画像5.jpg](images/AP_ON:DB_OFF.png)
+ ![画像5.jpg](images/AP_ON_DB_OFF.png)
 
 Railsの構成管理ツールの名前は？
 
