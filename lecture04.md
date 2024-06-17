@@ -22,12 +22,12 @@
 
 **2. EC2の構築**
 
- ![画像2.jpg](images04_/EC2.png)
+ ![画像2.jpg](images_04/EC2.png)
 
 
 **3. RDSの構築**
     
- ![画像3.jpg](images_04/EC2.png)
+ ![画像3.jpg](images_04/RDS.png)
 
 - RDSセキュリティーグループ
 
