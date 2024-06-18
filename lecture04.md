@@ -22,7 +22,7 @@
 
 **2. EC2の構築**
 
- ![画像2.jpg](images_04/EC2.png)
+ ![画像2.jpg](images_04/EC2-1.png)
 
 
 **3. RDSの構築**
@@ -42,7 +42,7 @@
 
 **4. EC2からRDSへ接続**
 
- ![画像8.jpg](images_04/EC2-RDS-login.png)  
+ ![画像8.jpg](images_04/EC2-RDS-Login.png)  
 
 **5. 今回の課題から学んだこと、感じたこと**
 
