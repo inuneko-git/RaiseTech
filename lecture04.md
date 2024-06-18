@@ -28,17 +28,21 @@
 **3. RDSの構築**
     
  ![画像3.jpg](images_04/RDS.png)
+ 
+ ![画像4.jpg](images_04/RDS_subnet1.png)
+ 
+ ![画像5.jpg](images_04/RDS_subnet2.png)
 
 - RDSセキュリティーグループ
 
- ![画像4.jpg](images_04/RDS-security-g1.png)
+ ![画像6.jpg](images_04/RDS-security-g1.png)
 
- ![画像5.jpg](images_04/RDS-security-g2.png)
+ ![画像7.jpg](images_04/RDS-security-g2.png)
 
 
 **4. EC2からRDSへ接続**
 
- ![画像6.jpg](images_04/EC2-RDS-login.png)  
+ ![画像8.jpg](images_04/EC2-RDS-login.png)  
 
 **5. 今回の課題から学んだこと、感じたこと**
 
