@@ -2,7 +2,7 @@
 
 ## EC2上にRailsサンプルアプリケーションのデプロイ
 
-サンプルアプリケーション→	https://github.com/yuta-ushijima/raisetech-live8-sample-app
+こちらの[サンプルアプリケーション](https://github.com/yuta-ushijima/raisetech-live8-sample-app)を使用
 
 ## 概要
 
@@ -31,7 +31,6 @@
 **2. 組み込みサーバーとUnix Socketを使っての動作確認**
 
  ![image2](images_05/curl.png)
-
 
 **3. Nginxの単体での動作確認**
 
