@@ -20,11 +20,11 @@
 - 自身のIAMユーザー名のものを選択
 - 抜粋したイベントを3つピックアップ
 
- ![image1](consolelogin.png)
+ ![image1](images_06/consolelogin.png)
 
 - イベントレコード
 
- ![image2](consolelogin2.png)
+ ![image2](images_06/consolelogin2.png)
 
 - イベントを３つピックアップ
 
@@ -42,17 +42,17 @@
 
 1. OKアクションの場合
 
- ![image3](cloudwatch-healthy.png)
+ ![image3](images_06/cloudwatch-healthy.png)
 
- ![image4](ok-email.png)
+ ![image4](images_06/ok-email.png)
 
 2.  NGアクションの場合
 
 - サンプルアプリケーションを停止させる
 
- ![image5](cloudwatch-unhealthy.png)
+ ![image5](images_06/cloudwatch-unhealthy.png)
 
- ![image6](alarm-email.png)
+ ![image6](images_06/alarm-email.png)
 
 ### **3. AWSサービス利用料の見積作成**
 
@@ -64,9 +64,9 @@
 
 - 先月（2024年6月）の利用状況、及びEC2料金の確認
 
- ![image7](cost-explorer.png)
+ ![image7](images_06/cost-explorer.png)
 
- ![image8](cost-explorer2.png)
+ ![image8](images_06/cost-explorer2.png)
 
 - 無料利用枠を超えている
 
