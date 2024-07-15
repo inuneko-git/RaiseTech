@@ -56,7 +56,7 @@ WebブラウザとWebサーバー間でデータの交換を行う(通信)際に
 * ※L3やL4へのDDoS攻撃への対策はできないため、AWS Shield Standardとの併用が有効。
 
 
-__AWS Shield保護対象__
+__AWS Shield/AWS WAF保護対象__
 ||AWS WAF| AWS Shield Standard| AWS Shield Advanced|
 |:--:|:--:|:--:|:--:|
 |L3ネットワーク層|×|⚪︎|⚪︎|
