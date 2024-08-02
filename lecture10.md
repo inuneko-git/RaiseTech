@@ -33,7 +33,7 @@
 
 ### **2. EC2**
 
- ![EC2](images_10/EC2.png)
+ ![EC2](images_10/EC2_1.png)
 
 - #### セキュリティーグループ
 
@@ -71,7 +71,7 @@
 
 ### **6. EC2からRDSへ接続確認**
 
- ![mysql](images_10/mysql.png)  
+ ![mysql](images_10/Mysql.png)  
 
 
 ### **感想**
